@@ -1,0 +1,81 @@
+#stay {
+padding: 300px 0px;
+background-image: url(images/photo-1519974719765-e6559eac2575.jpg)
+
+}
+#stay .mytextwithh {
+  
+
+}
+#stay .mytextwithh p {
+color:#e83e8c !important;
+font-size: 20px;
+line-height: 1.3;
+letter-spacing: 10px;
+font-weight:bold;
+/* text-align: center; */
+}
+#stay .mytextwithh h1 {
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.1);
+    font-weight: 700;
+    color: white;
+    font-size: 4.5rem;
+    line-height: 1.3;
+    /* text-align: center; */
+
+}
+
+/* booking section start */
+#booking {
+    padding: 100px 0px;
+    background-color: #f8f9fa !important;
+}
+.myred {
+    color:#e83e8c !important; 
+    font-weight: bold;
+}
+.us{
+    font-weight: bold
+}
+.card {
+    background-color: #f8f9fa !important;
+}
+.card i {
+    color: #4E66F8 !important;
+    font-size: 2.2rem;
+}
+.card p {
+    color: #868e96 !important
+}
+/* my guide section start  */
+#guide {
+    padding: 100px 0px;
+}
+.myimage {
+    height: 300px;
+    position: relative;
+}
+.myimage img{
+    max-width: 100%;
+   
+
+}
+.myguide {
+    /* text-align: center; */
+}
+.col-lg-2 {
+    transition: .4s;
+}
+.overlay {
+  position: absolute;
+  bottom: 50px;
+  color: white;
+  font-weight: bold;
+  left: 20px;
+}
+.col-lg-2:hover{
+    transform: translateY(-10px)
+}
+.secondrow {
+    padding-top: 40px;
+}
